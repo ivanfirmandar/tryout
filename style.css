@@ -1,0 +1,99 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #ef4628;
+}
+
+nav a,
+nav b {
+    color: white;
+    text-transform: uppercase;
+    font-size: 12px;
+}
+
+nav a:hover {
+    color: #ef4628;
+}
+
+.name {
+    color: #ef4628;
+    font-size: 60px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-transform: uppercase;
+}
+
+.greet {
+    color: white;
+}
+
+.content p {
+    color: white;
+    font-size: small;
+}
+
+.card {
+    background: rgb(22, 22, 22);
+    background: linear-gradient(90deg, rgba(22, 22, 22, 1) 0%, rgba(0, 0, 0, 1) 100%);
+    overflow: hidden;
+    box-shadow: 5px 5px 20px;
+}
+
+button .btn {
+    background-color: #ffbfa3;
+    color: #ef4628;
+}
+
+.ore {
+    overflow: hidden;
+}
+
+.mepoto {
+    height: 500px;
+    position: absolute;
+    bottom: -20px;
+}
+
+.data p {
+    color: white;
+    font-size: 12px;
+}
+
+.data p b {
+    color: brown;
+}
+
+.jabatan {
+    color: white;
+    font-size: 15px;
+    background-color: #ef4628;
+    width: 300px;
+    padding: 5px 5px;
+    border-radius: 4px;
+}
+
+.logo {
+    position: absolute;
+    height: 35px;
+}
+
+.right {
+    color: gray;
+    font-size: 12px;
+}
+
+.active {
+    color: #ef4628;
+}
+
+.melogo {
+    position: absolute;
+    height: 650px;
+    bottom: -150px;
+    left: 80px;
+}
+
+.ttd {
+    position: absolute;
+    height: 200px;
+    bottom: 305px;
+    left: 400px;
+}
