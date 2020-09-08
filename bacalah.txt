@@ -1,2 +1,3 @@
 Hal yang perlu ditambahkan :
 1. Pengkategorian test;
+2. Buat Registrasi
