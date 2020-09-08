@@ -1,3 +1,7 @@
 Hal yang perlu ditambahkan :
 1. Pengkategorian test;
+<<<<<<< HEAD
 2. Makan
+=======
+2. Buat Registrasi
+>>>>>>> 4e2aa3dc48e3f87f14554674526106ad0e834072
